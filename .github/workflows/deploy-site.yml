@@ -2,7 +2,7 @@ name: Website deployer
 run-name: Website deployment
 on: [push]
 jobs:
-  Do it!:
+  Deploy site:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository code
