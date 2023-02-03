@@ -1,0 +1,37 @@
+doctype html
+head
+    meta(charset='UTF-8')
+    meta(name="description", content="Homepage for a bunch of my retro dev projects, as well as archival things.")
+
+    meta(name='viewport' content='width=device-width, initial-scale=1.0')
+    link(rel="stylesheet" href="/pure-css/pure-min.css")
+    link(rel="stylesheet" href="/pure-css/grids-responsive-min.css")
+    link(rel="stylesheet" href="/font-awesome/font-awesome.min.css")
+    link(rel="shortcut icon" href="favicon.ico" type="image/x-icon")
+
+
+    link(rel="stylesheet" href="/style.css")
+    //- Grab title from the page data and dump it here
+    title= title 
+    //- Grab the content from the page data, dump it here, and mark it as safe
+
+
+
+    body
+        .header
+            .home-menu.pure-menu.pure-menu-horizontal
+                a.pure-menu-heading(href="/") nes.science
+                ul.pure-menu-list
+                    li.pure-menu-item(class=page.url === '/' ? 'pure-menu-selected' : '')
+                        a.pure-menu-link(href="/") Main Page
+                    li.pure-menu-item(class=page.url === '/archive/' ? 'pure-menu-selected' : '')
+                        a.pure-menu-link(href="/archive") Archive
+        .content-wrapper
+            .content
+                != content
+
+            .footer.l-box.is-center
+                a(href="/") nes.science 
+                | &bull;
+                = ' '
+                a(href="https://cpprograms.net" target="_blank") Creator homepage
