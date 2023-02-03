@@ -1,6 +1,8 @@
 name: Website deployer
 run-name: Website deployment
 on: [push]
+permissions:
+  contents: write
 jobs:
   Deploy:
     runs-on: ubuntu-latest
@@ -15,3 +17,4 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with: 
           folder: _site
+          ssh-key: ${{ secrets.SSHKEY }}
