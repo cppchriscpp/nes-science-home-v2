@@ -1,0 +1,17 @@
+name: Website deployer
+run-name: Website deployment
+on: [push]
+jobs:
+  Do it!:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
+      - name: Install
+        run: npm install
+      - name: Build
+        run: npm run build-prod
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@v4
+        with: 
+          folder: _site
