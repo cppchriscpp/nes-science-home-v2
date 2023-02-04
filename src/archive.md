@@ -9,19 +9,6 @@ disappear. I'm trying to archive some of the good stuff, so it's easy to access 
 
 Got something you think belongs here? Get in contact and maybe we can sort out mirroring it here.
 
-## Tutorials
-
-### [Nerdy Nights Mirror](https://nerdy-nights.nes.science)
-
-This is a fully-featured backup of the nerdy nights tutorials to get started with NES development. 
-
-I rehosted this off the nintendoage forums, in case anything bad ever happens to it. There is also a downloadable version, as well as a PDF created by 
-[Fuzzy](https://fuzzytek.ml/).
-
-[Download static copy](https://nerdy-nights.nes.science/full_site.zip)
-
-[Download PDF Version.](https://nerdy-nights.nes.science/downloads/Nerdy-Nights-NES-Tutorials-v1.pdf)
-
 ## General Development Utilities
 
 ### [NESDev Wiki Mirror](http://nesdev-wiki.nes.science/)

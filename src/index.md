@@ -25,6 +25,21 @@ It also comes with a guide to changing everything about it, which could also be 
 
 The idea is, download this (either via git or a zip file), set up the tools, run the game, then tweak it and make your own! With the right hardware, you can even play your game on your own NES.
 
+
+## Tutorials
+
+### [Nerdy Nights Mirror](https://nerdy-nights.nes.science)
+
+This is a fully-featured backup of the nerdy nights tutorials to get started with NES development. 
+
+I rehosted this off the nintendoage forums, in case anything bad ever happens to it. There is also a downloadable version, as well as a PDF created by 
+[Fuzzy](https://fuzzytek.ml/).
+
+[Download static copy](https://nerdy-nights.nes.science/full_site.zip)
+
+[Download PDF Version.](https://nerdy-nights.nes.science/downloads/Nerdy-Nights-NES-Tutorials-v1.pdf)
+
+
 ## Retro Dev Tools
 
 ### [create-nes-game](https://cppchriscpp.github.io/create-nes-game)
