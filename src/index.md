@@ -58,7 +58,7 @@ A simple jasmine + mesen-based test runner for the NES. Validate that your gener
 Has integration with cc65 output and create-nes-game, so you can inspect C/asm variables, as well as compare screenshots. 
 
 
-### [2Bit Tile Generator](https://cppchriscpp.github.io/2bit-tile-generator)
+### [2Bit Tile Generator](https://2bit-tile-generator.nes.science)
 
 This is a quick-and-dirty react app put together to generate some simple tiles for retro-styled games. 
 
@@ -75,7 +75,7 @@ There are a few tools out there that already do this, but I've found that they g
 your mind without going through the whole selection process again, or they just don't consider the features I want.
 
 
-### [NEZ Fork](https://github.com/cppchriscpp/nez)
+### [NEZ Fork](https://gh.nes.science/nez)
 
 This is a fork of the web-based Nez emulator to make it more friendly to embedding games. 
 I use this on my own website to show off the various games and demos I've made.
