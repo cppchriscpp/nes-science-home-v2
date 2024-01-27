@@ -42,7 +42,7 @@ I rehosted this off the nintendoage forums, in case anything bad ever happens to
 
 ## Retro Dev Tools
 
-### [create-nes-game](https://cppchriscpp.github.io/create-nes-game)
+### [create-nes-game](https://create-nes-game.nes.science)
 
 create-nes-game is a command line tool that creates a simple hello world game for the NES, alongside all build tools you need, and a ready-to-go emulator.
 
@@ -51,7 +51,7 @@ All you have to do is answer a series of multiple-choice questions about what la
 The tool will give you a git-ready folder full of code, which it can be used to compile and run. (and even unit test, if you want!)
 
 
-### [nes-test](https://cppchriscpp.github.io/nes-test)
+### [nes-test](https://nes-test.nes.science)
 
 A simple jasmine + mesen-based test runner for the NES. Validate that your generated roms have the proper size/signature, and do the right things when you run them.
 
