@@ -18,7 +18,7 @@ It aims to be simple enough for anyone to figure out! It includes default art an
 to substitute your own.
 
 
-### [NES Starter Kit](https://cppchriscpp.github.io/nes-starter-kit)
+### [NES Starter Kit](https://nes-starter-kit.nes.science)
 
 NES Starter Kit is s a fully-fledged starter kit for NES games. It is the source to a top-down adventure game, alongside all of the tools needed to change it. 
 It also comes with a guide to changing everything about it, which could also be titled "The dummy's guide to creating an NES game".
